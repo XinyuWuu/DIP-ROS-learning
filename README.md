@@ -4,6 +4,8 @@
 
 This repository is a collection of C++ projects demonstrating fundamental digital image processing (DIP) and computer vision algorithms. A key focus is the **implementation of these algorithms from scratch** to showcase their underlying mechanics. Most projects are integrated with the **Robot Operating System (ROS)**, linking perception algorithms directly to robotics applications like navigation and object tracking.
 
+https://github.com/user-attachments/assets/2c68c7bc-2c1f-4797-9445-b0eb62674f6b
+
 ## Algorithms Implemented from Scratch
 
 This collection emphasizes a deep, practical understanding of computer vision by building core functions from first principles, rather than relying on single-line library calls. The custom-implemented algorithms include:
